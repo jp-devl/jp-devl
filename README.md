@@ -8,7 +8,8 @@ Busco sempre aprimorar minhas habilidades e colaborar em projetos inovadores.
 
 ## Sobre mim
 
-Olá, o meu nome é João Pedro Moreira.
+Olá, me chamo João Pedro Moreira Martins de Sousa
+
 
 ✅ |   Curso técnico em Técnico em Informática pelo SENAI - CETEC/PALMAS-TO;
 

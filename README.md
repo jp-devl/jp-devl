@@ -2,13 +2,14 @@
 
 Sou um estudante apaixonado por tecnologia. Aqui irei compartilhar conhecimento sobre a Linguagem de Progamação, Redes de Computadores e Desenvolvimento de Jogos.
 
-Minha experiência inclui desenvolvimento de aplicações web escaláveis com JavaScript, HTML e CSS. Além disso, sigo apredendo mais sobre a área tecnológica, buscando conhecimento com Professores, Mestres e Youtubers.
+Minha experiência inclui desenvolvimento de aplicações web escaláveis com JavaScript, HTML e CSS. 
+Além disso, sigo apredendo mais sobre a área tecnológica, buscando conhecimento com Professores, Mestres e Youtubers.
 
 Busco sempre aprimorar minhas habilidades e colaborar em projetos inovadores.
 
 ## Sobre mim
 
-Olá, me chamo João Pedro Moreira Martins de Sousa
+Olá, me chamo João Pedro Moreira Martins de Sousa.
 
 
 ✅ |   Curso técnico em Técnico em Informática pelo SENAI - CETEC/PALMAS-TO;

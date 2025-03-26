@@ -16,8 +16,11 @@ Olá, o meu nome é João Pedro Moreira.
 ## Experiência
 
 🔸 | JavaScript - Intermediário;
+
 🔸 | HTML - Intermediário;
+
 🔸 | CSS - Intermediário;
 
 🔹 | DataBase Developer - Básico;
+
 🔹 | Gamer Design - Básico;

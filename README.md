@@ -10,17 +10,18 @@ Busco sempre aprimorar minhas habilidades e colaborar em projetos inovadores.
 
 Olá, o meu nome é João Pedro Moreira.
 
-✅ | Curso técnico em Técnico em Informática pelo SENAI - CETEC/PALMAS-TO;
-✅ | Acadêmico da FASEC - Faculdade Serra do Carmo - Palmas/TO;  
+✅ |   Curso técnico em Técnico em Informática pelo SENAI - CETEC/PALMAS-TO;
+
+✅ |   Acadêmico da FASEC - Faculdade Serra do Carmo - Palmas/TO;  
 
 ## Experiência
 
-🔸 | JavaScript - Intermediário;
+🔸 |   JavaScript - Intermediário;
 
-🔸 | HTML - Intermediário;
+🔸 |   HTML - Intermediário;
 
-🔸 | CSS - Intermediário;
+🔸 |   CSS - Intermediário;
 
-🔹 | DataBase Developer - Básico;
+🔹 |   DataBase Developer - Básico;
 
-🔹 | Gamer Design - Básico;
+🔹 |   Gamer Design - Básico;

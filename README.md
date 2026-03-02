@@ -49,15 +49,6 @@ Aqui você encontrará projetos e estudos sobre <b>Programação</b>, <b>Redes d
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jp-devl&show_icons=true&theme=github_dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-devl&layout=compact&theme=github_dark"/>
-</p>
-
----
-
 ## 📫 Vamos nos conectar?
 
 <p align="center">

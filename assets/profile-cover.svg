@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-labelledby="cover-title cover-desc">
+  <title id="cover-title">João Pedro Moreira Martins de Sousa — Desenvolvedor em formação</title>
+  <desc id="cover-desc">Capa editorial em tons de cobre e pôr do sol, com monograma JP, órbitas e as áreas tecnologia, desenvolvimento e segurança da informação.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2E251F"/>
+      <stop offset="0.55" stop-color="#50352D"/>
+      <stop offset="1" stop-color="#BE673E"/>
+    </linearGradient>
+    <radialGradient id="sunsetGlow" cx="72%" cy="52%" r="58%">
+      <stop offset="0" stop-color="#EF822F" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#EF822F" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#CF6A3A"/>
+      <stop offset="0.6" stop-color="#EF822F"/>
+      <stop offset="1" stop-color="#C29070"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#background)"/>
+  <rect width="1280" height="320" fill="url(#sunsetGlow)"/>
+
+  <g fill="none" stroke="#BAC6BD" stroke-opacity="0.10">
+    <path d="M0 70H1280M0 160H1280M0 250H1280"/>
+    <path d="M330 0V320M640 0V320M950 0V320"/>
+  </g>
+
+  <g transform="translate(190 160)" fill="none">
+    <circle r="116" stroke="#BAC6BD" stroke-opacity="0.24"/>
+    <ellipse rx="116" ry="40" transform="rotate(24)" stroke="#EF822F" stroke-opacity="0.45"/>
+    <ellipse rx="116" ry="40" transform="rotate(-24)" stroke="#CF6A3A" stroke-opacity="0.38"/>
+    <path d="M0 -104 90 -52 90 52 0 104 -90 52 -90 -52Z" stroke="#BAC6BD" stroke-opacity="0.20"/>
+    <path d="M0 -104 0 104M-90 -52 90 52M90 -52 -90 52" stroke="#BAC6BD" stroke-opacity="0.12"/>
+    <circle cx="116" cy="0" r="4" fill="#EF822F" stroke="none" fill-opacity="0.85"/>
+    <circle cx="-96" cy="58" r="2.5" fill="#C29070" stroke="none" fill-opacity="0.75"/>
+    <circle cx="62" cy="-98" r="2" fill="#BAC6BD" stroke="none" fill-opacity="0.65"/>
+  </g>
+
+  <text x="190" y="186" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="94" font-weight="700" fill="url(#metal)">JP</text>
+
+  <g transform="translate(400 0)">
+    <text x="0" y="106" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="15" letter-spacing="4" fill="#C29070">DESENVOLVEDOR EM FORMAÇÃO</text>
+    <text x="-2" y="170" font-family="Georgia, 'Times New Roman', serif" font-size="60" fill="#F3E9DC">João Pedro</text>
+    <text x="0" y="205" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="21" letter-spacing="2" fill="#E4D9C7">Moreira Martins de Sousa</text>
+    <line x1="0" y1="232" x2="810" y2="232" stroke="#C29070" stroke-opacity="0.35"/>
+    <text x="0" y="268" font-family="'Courier New', monospace" font-size="14" letter-spacing="2" fill="#BAC6BD">TECNOLOGIA · DESENVOLVIMENTO · SEGURANÇA DA INFORMAÇÃO</text>
+  </g>
+</svg>
